@@ -80,7 +80,7 @@ The repository is organized into the following planned sections:
 
 
 
-## Cybersecurity Case Analysis
+## Cybersecurity Case Analyses
 
 A dedicated section will contain structured cybersecurity case analyses based on assigned activities, laboratory references, and relevant investigation materials.
 A dedicated case analysis documenting the investigation, technical evaluation, observations, and findings associated with CTIA Casefile 001-012. The case documentation will be developed based on the provided training references and available evidence.
