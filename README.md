@@ -130,5 +130,7 @@ Special appreciation goes to **Dr. Gerard Nathaniel C. Ngo** for his valuable in
 
 
 ---
-
-*Maintained as a personal learning portfolio and documentation archive for the Cyber Threat Intelligence Analysis (CTIA) Level 3 Certification Program. - rhed-IT*
+<p align="center">
+  <sub> *Maintained as a personal learning portfolio and documentation archive for the Cyber Threat Intelligence Analysis (CTIA) Level 3 Certification Program. - rhed-IT*
+ </sub>
+</p>
