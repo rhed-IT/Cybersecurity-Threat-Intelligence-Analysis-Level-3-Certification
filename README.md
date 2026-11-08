@@ -2,9 +2,15 @@
 
 Welcome to my **Cybersecurity Threat Intelligence Analysis (CTIA) Level 3** learning portfolio.
 
-This repository documents my training journey, technical development, laboratory activities, cybersecurity case analyses, personal reflections, and learning experiences throughout the CTIA Level 3 program.
+This repository documents my training journey, technical development, laboratory activities, cybersecurity case analyses, personal reflections, and learning experiences throughout the CTIA Level 3 program. It serves as both a professional portfolio and a personal learning archive, recording my progress as I develop my knowledge and practical skills in cybersecurity and threat intelligence analysis.
 
-It serves as both a professional portfolio and a personal learning archive, recording my progress as I develop my knowledge and practical skills in cybersecurity and threat intelligence analysis.
+Note: 
+This repository was independently created as part of my own initiative to document my learning, expand my knowledge, and develop practical skills in cybersecurity.
+The repository creation, additional analysis, investigations, documentation, and reporting are not part of the official CTIA Level 3 course requirements or prescribed activities. These are independent efforts undertaken beyond the required coursework.
+
+AI tools are also utilized as supplementary learning resources to assist with research, clarify technical concepts, improve documentation, and support my understanding. However, the initiative, learning process, and effort to develop these materials remain my own.
+
+*My goal is to go beyond simply completing the program by strengthening my technical knowledge, improving my analytical skills, and continuously learning along the way.*
 
 ## Current Progress
 
